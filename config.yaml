@@ -13,7 +13,7 @@ menu:
               icon: brand-github
         - identifier: linkedin
           name: LinkedIn
-          url: "https://th.linkedin.com/in/nopdanai-dejvorakul-33b80533"
+          url: "https://www.linkedin.com/in/nopdanai-dejvorakul/"
           params:
               icon: brand-linkedin
         - identifier: facebook
@@ -44,7 +44,7 @@ params:
         avatar:
             enabled: true
             local: false
-            src: https://media.licdn.com/dms/image/D5603AQEDUg8B1a5PsA/profile-displayphoto-shrink_800_800/0/1678429981572?e=2147483647&v=beta&t=wynVyBMgH6dks9dpRk3wwltXf3uMvDhQdoRkPCpLBxI
+            src: https://media.licdn.com/dms/image/D4E03AQE4TQZOW0adGA/profile-displayphoto-shrink_800_800/0/1685604339102?e=1692835200&v=beta&t=BQIxpIDgCsyVDqDjydvEctC3uMxPc6EdMeKHCwnZnbM
 
     article:
         math: false
