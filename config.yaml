@@ -44,7 +44,7 @@ params:
         avatar:
             enabled: true
             local: false
-            src: https://media.licdn.com/dms/image/D4E03AQE4TQZOW0adGA/profile-displayphoto-shrink_800_800/0/1685604339102?e=1692835200&v=beta&t=BQIxpIDgCsyVDqDjydvEctC3uMxPc6EdMeKHCwnZnbM
+            src: /profile.jpeg
 
     article:
         math: false
@@ -77,10 +77,10 @@ params:
 
     colorScheme:
         # Display toggle
-        toggle: true
+        toggle: false
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:
